@@ -27,7 +27,7 @@ Data is sourced directly using the [`yfinance`](https://pypi.org/project/yfinanc
 - 📊 Rolling mean and volatility analysis
 - 📈 Technical Indicator Analysis
 - 📉 Daily and log returns
-- 🧮 Outlier detection using z-scores
+- 🧮 Outlier detection using z-scores/iqr
 - 🧭 Stationarity check with Augmented Dickey-Fuller test
 - 📆 Seasonal decomposition of time series
 - 🔁 Autocorrelation and Partial Autocorrelation (ACF / PACF)
